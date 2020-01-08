@@ -1,2 +1,2 @@
 # nearestplace
-Asign persons to nearest place
+Assign persons to nearest place
